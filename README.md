@@ -1,4 +1,4 @@
 # pruebas
 pruebas de git y github 
-## autor
+## holi homosexual
 eduardo morales 
